@@ -1,0 +1,6 @@
+Lab: Identify the latest PUSH changes in the bit bucket using DIFF
+-------------------------------------------------------------------
+STEP 01: Create a remote repositor in BitBucket (bitbucket.org/)
+STEP 02: Clone the project to local machine (git clone https)
+STEP 03: Create a new file with some content in the file (echo "write something" > filename)
+STEP 04: Stage the file (git add) and commit changes (git commit) and you can also push 
