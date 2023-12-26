@@ -4,3 +4,13 @@ STEP 01: Create a remote repositor in BitBucket (bitbucket.org/)
 STEP 02: Clone the project to local machine (git clone https)
 STEP 03: Create a new file with some content in the file (echo "write something" > filename)
 STEP 04: Stage the file (git add) and commit changes (git commit) and you can also push 
+STEP 05: Now make some changes in the file and check the difference in the project with respect to the previous commit (git diff). You will see the latest changes in the project. 
+STEP 06: Press Q to exit
+
+Git diff for branches
+----------------------
+STEP 01: Create a new branch (git branch branch_name) and checkout to that branch (git checkout branch_name)
+STEP 02: Make the necessary changes and commit the changes
+STEP 03: Check the difference with git diff branch_name, here branch_name is the branch that you would like to compare the current branch
+
+** Refer to the screen shots attached ../ **
